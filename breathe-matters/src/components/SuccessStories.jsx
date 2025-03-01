@@ -52,7 +52,6 @@ const SuccessStories = () => {
                 <Box
                   sx={{
                     backgroundColor: "#f9f9f9",
-                    border: "1px solid rgb(0,128,128)",
                     border: "1px solid rgb(6, 96, 96)",
                     borderRadius: 2,
                     overflow: "hidden",
